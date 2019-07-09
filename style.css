@@ -1,0 +1,93 @@
+*{
+    margin: 0;
+    padding: 0;
+    -webkit-transition: all 0.5s ease;
+    -moz-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+}
+#img_1 {
+    background-color: aliceblue;
+}
+
+#img_2 {
+        background-color: antiquewhite;
+}
+
+#img_3 {
+        background-color: aqua;
+}
+
+#img_4 {
+        background-color: aquamarine;
+}
+
+#img_5 {
+        background-color: azure;
+}
+
+#img_6 {
+        background-color: beige;
+}
+
+#img_7 {
+        background-color: bisque;
+}
+
+#img_8 {
+        background-color: black;
+}
+
+#img_9 {
+        background-color: blanchedalmond;
+}
+
+#img_10 {
+        background-color: blue;
+}
+
+#slider_box>ul>li {
+    float: left;
+    display: block;
+    height: 100px;
+}
+
+#slider_box>ul {
+    overflow: hidden;
+    width: 1000%;
+}
+
+#slider_box {
+    overflow: hidden;
+    position: relative;
+    left: 30px;
+}
+
+#left_nav {
+    float: left;
+}
+
+#nav_slider>div {
+    background-color: blue;
+    width: 30px;
+    height: 50px;
+}
+
+#right_nav {
+    float: right;
+}
+
+#nav_slider {
+    overflow: hidden;
+    position: relative;
+    top: -80px;
+}
+
+#slider {
+    overflow: hidden;
+    width: 680px;
+    margin: 0 auto;
+}
+
+#img_11 {
+    background-color: darkgreen;
+}
